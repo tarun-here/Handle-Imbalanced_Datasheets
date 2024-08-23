@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
+sklearn
+imblearn.over_sampling
+imblearn.under_sampling
+imblearn.pipeline
